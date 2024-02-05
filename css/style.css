@@ -1,0 +1,8 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
